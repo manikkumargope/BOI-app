@@ -1,19 +1,13 @@
+new line added
 int a=10;
 int b=20;
 int c=a+b;
 int w=10;
-<<<<<<< Updated upstream
 //started working on story 33
 int x;
 int y;
 int z=x+y;
-
-new conflict line in the same line
-
 int m=a+b+c;
-
 // working on story 22
 int a,b,c;
 int sum=a+b+c;
->>>>>>> Stashed changes
-new line added to check conflict
