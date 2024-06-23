@@ -13,3 +13,4 @@ int z=x+y;
 int a,b,c;
 int sum=a+b+c;
 >>>>>>> Stashed changes
+new line added to check conflict
