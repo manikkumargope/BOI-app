@@ -7,8 +7,11 @@ int w=10;
 int x;
 int y;
 int z=x+y;
+
 new conflict line in the same line
-=======
+
+int m=a+b+c;
+
 // working on story 22
 int a,b,c;
 int sum=a+b+c;
