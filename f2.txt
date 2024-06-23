@@ -7,7 +7,7 @@ int w=10;
 int x;
 int y;
 int z=x+y;
-
+int m=a+b+c;
 =======
 // working on story 22
 int a,b,c;
