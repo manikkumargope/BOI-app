@@ -2,8 +2,14 @@ int a=10;
 int b=20;
 int c=a+b;
 
+<<<<<<< Updated upstream
 //started working on story 33
 int x;
 int y;
 int z=x+y;
 
+=======
+// working on story 22
+int a,b,c;
+int sum=a+b+c;
+>>>>>>> Stashed changes
